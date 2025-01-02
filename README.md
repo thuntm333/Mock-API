@@ -21,3 +21,8 @@ Let's go ahead and do that, shall we?
 </ol>
 <strong>If have more than 1 example, in header tab of API input</strong> <br><i>x-mock-response-name </i> in <strong>Key</strong> column <br> <i>Name's example</i> in <strong>Value</strong> column<be>
 <img src="https://github.com/user-attachments/assets/c5233377-c6c8-45cc-90b0-3872fcfda4c6" alt="mockapi">
+
+<h3>Acknowledgements</h3>
+I would like to express our gratitude to author of the course API Test Automation with Postman on <a href="https://www.testautomationu.applitools.com/">testautomationu.applitools.com</a> for providing valuable guidance.
+
+
