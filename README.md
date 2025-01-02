@@ -19,8 +19,5 @@ Let's go ahead and do that, shall we?
     <em>- Ticked on Save the mock server URL as an new environment variables </em>
   <li>Press the ellipsis menu against the POST Auth and add an example.</li>
 </ol>
-<strong>If have more than 1 example, in header tab of API input</strong> <br><i>x-mock-response-name </i> in <strong>Key</strong> column <br> <i>Name's example</i> in <strong>Value</strong> column<br>
-[image](https://github.com/user-attachments/assets/6e3b2c52-bc24-4e19-8f40-c5e0d4d81d12)
-</body>
-</html>
-
+<strong>If have more than 1 example, in header tab of API input</strong> <br><i>x-mock-response-name </i> in <strong>Key</strong> column <br> <i>Name's example</i> in <strong>Value</strong> column<be>
+<img src="https://github.com/user-attachments/assets/c5233377-c6c8-45cc-90b0-3872fcfda4c6" alt="mockapi">
